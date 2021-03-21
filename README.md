@@ -5,15 +5,15 @@ YouTube Ad Skipper is a Chrome extension, used to auto skip YouTube ad on Chrome
 You need to install Chrome extension manually from GitHub with the following steps:
 
 1. Download ZIP and unzip the downloaded file.
-    ![download-zip-from-github](\im\download-zip-from-github.png)
+    ![download-zip-from-github](https://github.com/wayfar3/YouTube-Ad-Skipper/blob/main/im/download-zip-from-github.png?raw=true)
 
 
 2. Visit `chrome://extensions/` and turn on "Developer mode".
-    ![download-zip-from-github](\im\enable-developer-mode.png)
+    ![enable-developer-mode](https://github.com/wayfar3/YouTube-Ad-Skipper/blob/main/im/enable-developer-mode.png?raw=true)
 
 
 3. Click "Load unpacked" button and select the directory you has unzipped.
-    ![download-zip-from-github](\im\load-unpacked.png)
+    ![load-unpacked](https://github.com/wayfar3/YouTube-Ad-Skipper/blob/main/im/load-unpacked.png?raw=true)
 
 
 4. Enjoy!

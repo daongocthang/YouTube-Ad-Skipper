@@ -1,4 +1,4 @@
-YouTube Ad Skipper is a Chrome extension, used to auto skip YouTube ad on Chrome.
+YouTube Ad Skipper is a Chrome extension, used to auto skip YouTube ad on Chrome browser.
 
 #### Usage:
 
@@ -19,4 +19,4 @@ You need to install Chrome extension manually from GitHub with the following ste
     ![load-unpacked](https://github.com/wayfar3/YouTube-Ad-Skipper/blob/main/im/load-unpacked.png?raw=true)
 
 
-4. Enjoy!
+4. Restart Chrome browser and enjoy!
